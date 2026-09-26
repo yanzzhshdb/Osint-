@@ -63,15 +63,7 @@ python --version
 
 Clone the repository:
 
-git clone https://github.com/YOUR-USERNAME/YOUR-REPOSITORY.git
-
-Enter the directory:
-
-cd YOUR-REPOSITORY
-
-Install dependencies if the project provides a requirements file:
-
-pip install -r requirements.txt
+git clone https://github.com/yanzzhshdb/Osint-
 
 ---
 
@@ -90,8 +82,6 @@ Then follow the instructions displayed in the terminal.
 .
 ├── osint.py
 ├── README.md
-├── requirements.txt
-└── LICENSE
 
 ---
 
